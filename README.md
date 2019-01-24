@@ -1,2 +1,2 @@
-# the-real-cost
-Opportunity Cost Application
+# The Real Cost Application
+Marshall and Jesper's IOS project
