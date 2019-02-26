@@ -12,6 +12,8 @@
 		AB22DB2C221D238C005AAD7A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB22DB2A221D238C005AAD7A /* Main.storyboard */; };
 		AB22DB2E221D238D005AAD7A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB22DB2D221D238D005AAD7A /* Assets.xcassets */; };
 		AB22DB31221D238D005AAD7A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB22DB2F221D238D005AAD7A /* LaunchScreen.storyboard */; };
+		AB5FC3012224E9B800945287 /* info.png in Resources */ = {isa = PBXBuildFile; fileRef = AB5FC3002224E9B800945287 /* info.png */; };
+		AB5FC3032224EA4100945287 /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = AB5FC3022224EA4000945287 /* settings.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		AB22DB2D221D238D005AAD7A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB22DB30221D238D005AAD7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB22DB32221D238D005AAD7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB5FC3002224E9B800945287 /* info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = info.png; path = Assets.xcassets/info.png; sourceTree = "<group>"; };
+		AB5FC3022224EA4000945287 /* settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settings.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +62,9 @@
 				AB22DB28221D238C005AAD7A /* ViewController.swift */,
 				AB22DB2A221D238C005AAD7A /* Main.storyboard */,
 				AB22DB2D221D238D005AAD7A /* Assets.xcassets */,
+				AB5FC3002224E9B800945287 /* info.png */,
 				AB22DB2F221D238D005AAD7A /* LaunchScreen.storyboard */,
+				AB5FC3022224EA4000945287 /* settings.png */,
 				AB22DB32221D238D005AAD7A /* Info.plist */,
 			);
 			path = "The Real Cost iOS App";
@@ -125,6 +131,8 @@
 				AB22DB31221D238D005AAD7A /* LaunchScreen.storyboard in Resources */,
 				AB22DB2E221D238D005AAD7A /* Assets.xcassets in Resources */,
 				AB22DB2C221D238C005AAD7A /* Main.storyboard in Resources */,
+				AB5FC3032224EA4100945287 /* settings.png in Resources */,
+				AB5FC3012224E9B800945287 /* info.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
